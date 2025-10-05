@@ -4097,15 +4097,15 @@ trainerdata 129, "Shane"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
-        pokemon SPECIES_NIDORINA
+        level 4
+        pokemon SPECIES_NIDORAN_F
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
-        pokemon SPECIES_NIDORINO
+        level 4
+        pokemon SPECIES_NIDORAN_M
         ballseal 0
     endparty
 
@@ -4223,22 +4223,22 @@ trainerdata 134, "Benjamin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 15
+        level 4
         pokemon SPECIES_DIGLETT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 15
+        level 5
         pokemon SPECIES_GEODUDE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 17
-        pokemon SPECIES_DUGTRIO
+        level 4
+        pokemon SPECIES_DIGLETT
         ballseal 0
     endparty
 
@@ -16688,9 +16688,9 @@ trainerdata 494, "Georgina"
         ballseal 0
     endparty
 
-trainerdata 495, "Boy"
+trainerdata 495, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -16709,9 +16709,9 @@ trainerdata 495, "Boy"
         ballseal 0
     endparty
 
-trainerdata 496, "Boy"
+trainerdata 496, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -16730,9 +16730,9 @@ trainerdata 496, "Boy"
         ballseal 0
     endparty
 
-trainerdata 497, "Boy"
+trainerdata 497, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_PASSERBY
+    trainerclass TRAINERCLASS_RIVAL
     nummons 1
     item ITEM_NONE
     item ITEM_NONE
@@ -18282,15 +18282,15 @@ trainerdata 537, "Harrison"
         // mon 0
         ivs 0
         abilityslot 32
-        level 17
-        pokemon SPECIES_NIDOKING
+        level 3
+        pokemon SPECIES_NIDORAN_M
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
-        pokemon SPECIES_NIDOQUEEN
+        level 4
+        pokemon SPECIES_NIDORAN_F
         ballseal 0
     endparty
 
