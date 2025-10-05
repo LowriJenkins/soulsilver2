@@ -106,19 +106,19 @@ _0000: // Trainer 0
        // Trainer 709
        // Trainer 710
        // Trainer 711
-    trainertextentry 495, TEXT_LAST_MON_CRITICAL, "...Humph!\nYou’re doing OK for someone weak.\n"
-    trainertextentry 495, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nAre you happy you won?\n"
-    trainertextentry 495, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
+    trainertextentry 495, TEXT_LAST_MON_CRITICAL, ".C'mon! \nWe can still do this!\n"
+    trainertextentry 495, TEXT_DEFEATED_IN_BATTLE, "Wow! \nYou're pretty good huh!\n"
+    trainertextentry 495, TEXT_PLAYER_LOSES, "I won?\n I won!\n"
 
 _000C: // Trainer 496
-    trainertextentry 496, TEXT_LAST_MON_CRITICAL, "...Humph!\nYou’re doing OK for someone weak.\n"
-    trainertextentry 496, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nAre you happy you won?\n"
-    trainertextentry 496, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
+    trainertextentry 496, TEXT_LAST_MON_CRITICAL, ".C'mon! \nWe can still do this!\n"
+    trainertextentry 496, TEXT_DEFEATED_IN_BATTLE, "Wow! \nYou're pretty good huh!\n"
+    trainertextentry 496, TEXT_PLAYER_LOSES, "I won?\n I won!\n"
 
 _0018: // Trainer 497
-    trainertextentry 497, TEXT_LAST_MON_CRITICAL, "...Humph!\nYou’re doing OK for someone weak.\n"
-    trainertextentry 497, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nAre you happy you won?\n"
-    trainertextentry 497, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
+    trainertextentry 497, TEXT_LAST_MON_CRITICAL, ".C'mon! \nWe can still do this!\n"
+    trainertextentry 497, TEXT_DEFEATED_IN_BATTLE, "Wow! \nYou're pretty good huh!\n"
+    trainertextentry 497, TEXT_PLAYER_LOSES, "I won?\n I won!\n"
 
 _0024: // Trainer 1
     trainertextentry   1, TEXT_LAST_MON_SENT_OUT, "Say, you’ve got a lot of nerve,\ncoming here...\n"
