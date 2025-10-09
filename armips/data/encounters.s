@@ -2928,7 +2928,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 14, 13, 14, 15, 15, 14, 14, 16, 15, 16, 15
+walklevels 5, 5, 5, 5, 6, 6, 6, 7, 6, 6, 6, 5
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
@@ -3032,7 +3032,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 14, 14, 14, 14, 16, 16, 16, 16, 15, 14, 15, 14
+walklevels 5, 6, 6, 5, 6, 6, 6, 7, 6, 6, 6, 5
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
@@ -3968,7 +3968,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 16, 16, 16, 16, 16, 16, 16, 13, 13, 13, 13
+walklevels 7, 7, 7, 8, 9, 7, 9, 8, 8, 9, 7, 7
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
@@ -5528,7 +5528,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 2, 3, 2, 3, 4, 4, 4, 4, 4, 4, 4, 4
+walklevels 2, 3, 2, 3, 3, 3, 2, 3, 4, 4, 4, 4
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
