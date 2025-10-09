@@ -248,9 +248,9 @@ _0164: // Trainer 30
     trainertextentry  30, TEXT_DEFEATED_IN_BATTLE, "Ugh...\n"
 
 _0170: // Trainer 31
-    trainertextentry  31, TEXT_LAST_MON_SENT_OUT, "No, it’s not over yet--not yet!\nI still believe we can do it!\n"
-    trainertextentry  31, TEXT_LAST_MON_CRITICAL, "We’ve got more discipline than\nanyone else!\n"
-    trainertextentry  31, TEXT_DEFEATED_IN_BATTLE, "How is this possible...\n"
+    trainertextentry  31, TEXT_LAST_MON_SENT_OUT, "Not bad at all.\nStill, let us see if you can finish this.\n"
+    trainertextentry  31, TEXT_LAST_MON_CRITICAL, "We'll not lose to you this easily!\n"
+    trainertextentry  31, TEXT_DEFEATED_IN_BATTLE, "Well well, you almost remind me of...\n"
 
 _017C: // Trainer 33
     trainertextentry  33, TEXT_LAST_MON_SENT_OUT, "Properly tempered steel won’t be made\nrusty by things like this!\n"
@@ -358,7 +358,7 @@ _0274: // Trainer 71
     trainertextentry  71, TEXT_DEFEATED_IN_OVERWORLD, "I’m training really hard to try to beat\nWhitney, but I’m starting to get\fdiscouraged...\rWhat to do...\nWell... If I lose, I’ll just try harder\fnext time!\n"
 
 _0280: // Trainer 5
-    trainertextentry   5, TEXT_NOTICE_IN_OVERWORLD, "Oh, you are a cute little Trainer!\nI like you, but I won’t hold back!\r"
+    trainertextentry   5, TEXT_NOTICE_IN_OVERWORLD, "This is a good place to train.\nSo long as you're respectful.\r"
     trainertextentry   5, TEXT_DEFEATED_IN_BATTLE, "Let’s see...\nOops, it’s over?\n"
     trainertextentry   5, TEXT_DEFEATED_IN_OVERWORLD, "Wow, you must be good to beat me!\nKeep it up!\n"
 
@@ -1261,9 +1261,9 @@ _0B04: // Trainer 65
     trainertextentry  65, TEXT_REMATCH_IN_OVERWORLD, "You’re here! You’re here! I’ve never\nhad a practice partner before!\r"
 
 _0B14: // Trainer 6
-    trainertextentry   6, TEXT_NOTICE_IN_OVERWORLD, "What’s with you?\nWhat are you doing?\r"
-    trainertextentry   6, TEXT_DEFEATED_IN_BATTLE, "You don’t have to worry about the night\nwhen you’re with strong Pokémon.\n"
-    trainertextentry   6, TEXT_DEFEATED_IN_OVERWORLD, "The group stealing other people’s\nPokémon seems to be growing lately.\fYou should be careful, too.\n"
+    trainertextentry   6, TEXT_NOTICE_IN_OVERWORLD, "The spirit's in this place!\nThey are restless!\r"
+    trainertextentry   6, TEXT_DEFEATED_IN_BATTLE, "It is true that the spirits here are restless...\nBut they're also just playful.\n"
+    trainertextentry   6, TEXT_DEFEATED_IN_OVERWORLD, "If you do meet a spirit here, be kind.\nwho knows, you might make a friend!"
 
 _0B20: // Trainer 62
     trainertextentry  62, TEXT_NOTICE_IN_OVERWORLD, "This is where I do my training!\r"
@@ -1298,10 +1298,7 @@ _0B60: // Trainer 388
     trainertextentry 388, TEXT_REMATCH_IN_OVERWORLD, "I’ve been practicing breathing fire\nwhile waiting for you!\r"
 
 _0B70: // Trainer 7
-    trainertextentry   7, TEXT_NOTICE_IN_OVERWORLD, "Behold my dexterity and grace!\r"
-    trainertextentry   7, TEXT_DEFEATED_IN_BATTLE, "Whew! That was a jolt!\n"
-    trainertextentry   7, TEXT_DEFEATED_IN_OVERWORLD, "I was going to dazzle you with my prize\nPokémon. But your prowess\felectrified me!\n"
-    trainertextentry   7, TEXT_REMATCH_IN_OVERWORLD, "Yo! I’ve been waiting!\r"
+    trainertextentry   7, TEXT_DEFEATED_IN_BATTLE, "I can see why you want the\nGym leader!\n"
 
 _0B80: // Trainer 78
     trainertextentry  78, TEXT_NOTICE_IN_OVERWORLD, "I’ll go anywhere if bug Pokémon\nappear there.\r"
@@ -1475,8 +1472,8 @@ _0D1C: // Trainer 123
     trainertextentry 123, TEXT_REMATCH_IN_OVERWORLD, "Me? I haven’t been waiting at all.\nI didn’t know that fishing would be\fso boring!\r"
 
 _0D2C: // Trainer 129
-    trainertextentry 129, TEXT_NOTICE_IN_OVERWORLD, "Hey!\rThis is my secret place!\nGet lost, you outsider!\r"
-    trainertextentry 129, TEXT_DEFEATED_IN_BATTLE, "I should have used my Moon Stone...\n"
+    trainertextentry 129, TEXT_NOTICE_IN_OVERWORLD, "Hey!\rCan we battle!?\nI need to train my Nidoran!\r"
+    trainertextentry 129, TEXT_DEFEATED_IN_BATTLE, "One day I'll be able to use this Moon Stone...\n"
     trainertextentry 129, TEXT_DEFEATED_IN_OVERWORLD, "You’re working on a Pokédex?\rWow, you must know some pretty\nrare Pokémon!\fMay I please see it? Please?\n"
 
 _0D38: // Trainer 134
@@ -1998,9 +1995,9 @@ _120C: // Trainer 486
     trainertextentry 486, TEXT_DEFEATED_IN_BATTLE, "Grr...\nFor a kid to be this good...\fI didn’t see it coming.\n"
 
 _1218: // Trainer 12
-    trainertextentry  12, TEXT_NOTICE_IN_OVERWORLD, "Quit taking SlowpokeTails?\rIf we listened to you, Team Rocket’s\nrep would be ruined!\r"
-    trainertextentry  12, TEXT_DEFEATED_IN_BATTLE, "Just...\nToo strong...\n"
-    trainertextentry  12, TEXT_DEFEATED_IN_OVERWORLD, "We need the money, but selling\nSlowpokeTails?\rIt’s tough being a Team Rocket Grunt!\n"
+    trainertextentry  12, TEXT_NOTICE_IN_OVERWORLD, "Hiya! Team Dim Sun! ATTACK!\r"
+    trainertextentry  12, TEXT_DEFEATED_IN_BATTLE, "I don't like Johto...\nToo strong...\n"
+    trainertextentry  12, TEXT_DEFEATED_IN_OVERWORLD, "Why are we even here? surely\nwe can make money easily in Almia?\n"
 
 _1224: // Trainer 101
     trainertextentry 101, TEXT_NOTICE_IN_OVERWORLD, "Humph! I was standing guard up top\nwhen some old coot yelled at me.\rHe startled me so much that I fell\ndown here.\rHow about I vent my anger and take it\nout on you!\r"
@@ -2008,9 +2005,7 @@ _1224: // Trainer 101
     trainertextentry 101, TEXT_DEFEATED_IN_OVERWORLD, "Sure, we’ve been hacking the tails off\nSLOWPOKE and selling them.\rTeam Rocket will do anything for money!\n"
 
 _1230: // Trainer 13
-    trainertextentry  13, TEXT_NOTICE_IN_OVERWORLD, "Stop taking SlowpokeTails?\rWhat?! You want us to disobey a direct\norder from Executive Proton?\rIf you want to stop us, you’ll have to\ndefeat us all! Go ahead and try!\r"
-    trainertextentry  13, TEXT_DEFEATED_IN_BATTLE, "You rotten brat!\n"
-    trainertextentry  13, TEXT_DEFEATED_IN_OVERWORLD, "SlowpokeTails grow back fast!\rBesides, it was an order from Proton,\nso I’m more concerned about that!\n"
+    trainertextentry  13, TEXT_DEFEATED_IN_BATTLE, "I feel like a china shop...\n"
 
 _123C: // Trainer 73
     trainertextentry  73, TEXT_NOTICE_IN_OVERWORLD, "What are you here for? Just to stand\naround and gawk? I suggest you leave!\r"

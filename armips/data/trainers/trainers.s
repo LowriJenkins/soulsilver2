@@ -151,8 +151,8 @@ trainerdata 4, "Wade"
 
 trainerdata 5, "Victoria"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_BEAUTY
-    nummons 3
+    trainerclass TRAINERCLASS_PSYCHIC_F
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -165,34 +165,27 @@ trainerdata 5, "Victoria"
         // mon 0
         ivs 10
         abilityslot 32
-        level 9
-        pokemon SPECIES_SENTRET
+        level 6
+        pokemon SPECIES_HOOTHOOT
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 32
-        level 13
-        pokemon SPECIES_SENTRET
-        ballseal 0
-
-        // mon 2
-        ivs 10
-        abilityslot 32
-        level 16
-        pokemon SPECIES_SENTRET
+        level 6
+        pokemon SPECIES_NATU
         ballseal 0
     endparty
 
-trainerdata 6, "Keith"
+trainerdata 6, "Ellena"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_POLICEMAN
-    nummons 1
+    trainerclass TRAINERCLASS_MEDIUM
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
-    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EXPERT_ATTACKS | 0
+    aiflags F_PRIORITIZE_SUPER_EFFECTIVE | 0
     battletype SINGLE_BATTLE
     endentry
 
@@ -200,15 +193,29 @@ trainerdata 6, "Keith"
         // mon 0
         ivs 0
         abilityslot 0
-        level 17
-        pokemon SPECIES_GROWLITHE
+        level 5
+        pokemon SPECIES_GASTLY
+        ballseal 0
+
+        // mon 1
+        ivs 0
+        abilityslot 0
+        level 5
+        pokemon SPECIES_DUSKULL
+        ballseal 0
+
+        // mon 2
+        ivs 0
+        abilityslot 0
+        level 5
+        pokemon SPECIES_SHUPPET
         ballseal 0
     endparty
 
-trainerdata 7, "Irwin"
+trainerdata 7, "Rachel"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_JUGGLER
-    nummons 4
+    trainerclass TRAINERCLASS_MEDIUM
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -221,29 +228,22 @@ trainerdata 7, "Irwin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 2
-        pokemon SPECIES_VOLTORB
+        level 5
+        pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
         level 6
-        pokemon SPECIES_VOLTORB
+        monwithform SPECIES_POLTEAGEIST, 1
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 10
-        pokemon SPECIES_VOLTORB
-        ballseal 0
-
-        // mon 3
-        ivs 0
-        abilityslot 32
-        level 14
-        pokemon SPECIES_VOLTORB
+        level 5
+        pokemon SPECIES_LITWICK
         ballseal 0
     endparty
 
@@ -368,22 +368,22 @@ trainerdata 12, "Grunt"
         // mon 0
         ivs 30
         abilityslot 32
-        level 7
+        level 6
         pokemon SPECIES_RATTATA
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 9
+        level 7
         pokemon SPECIES_ZUBAT
         ballseal 0
 
         // mon 2
         ivs 30
         abilityslot 0
-        level 9
-        pokemon SPECIES_ZUBAT
+        level 8
+        pokemon SPECIES_GASTLY
         ballseal 0
     endparty
 
@@ -404,14 +404,14 @@ trainerdata 13, "Grunt"
         ivs 30
         abilityslot 0
         level 9
-        pokemon SPECIES_ZUBAT
+        pokemon SPECIES_ABRA
         ballseal 0
 
         // mon 1
         ivs 30
         abilityslot 0
-        level 11
-        pokemon SPECIES_EKANS
+        level 10
+        pokemon SPECIES_MURKROW
         ballseal 0
     endparty
 
@@ -960,8 +960,8 @@ trainerdata 31, "Morty"
     trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
     trainerclass TRAINERCLASS_LEADER_MORTY
     nummons 4
-    item ITEM_HYPER_POTION
-    item ITEM_HYPER_POTION
+    item ITEM_POTION
+    item ITEM_POTION
     item ITEM_NONE
     item ITEM_NONE
     aiflags F_PRIORITIZE_SUPER_EFFECTIVE | F_EVALUATE_ATTACKS | F_EXPERT_ATTACKS | 0
@@ -972,48 +972,48 @@ trainerdata 31, "Morty"
         // mon 0
         ivs 100
         abilityslot 0
-        level 21
+        level 11
         pokemon SPECIES_GASTLY
         item ITEM_NONE
         move MOVE_LICK
-        move MOVE_SPITE
-        move MOVE_MEAN_LOOK
-        move MOVE_CURSE
+        move MOVE_CONFUSE_RAY
+        move MOVE_WILL_O_WISP
+        move MOVE_HEX
         ballseal 0
 
         // mon 1
         ivs 100
         abilityslot 0
-        level 21
-        pokemon SPECIES_HAUNTER
+        level 12
+        monwithform SPECIES_SINISTCHA, 1
         item ITEM_NONE
-        move MOVE_HYPNOSIS
-        move MOVE_DREAM_EATER
-        move MOVE_CURSE
-        move MOVE_NIGHTMARE
+        move MOVE_STUN_SPORE
+        move MOVE_HEX
+        move MOVE_MATCHA_GOTCHA
+        move MOVE_WITHDRAW
         ballseal 0
 
         // mon 2
         ivs 100
         abilityslot 0
-        level 25
-        pokemon SPECIES_GENGAR
-        item ITEM_SITRUS_BERRY
-        move MOVE_HYPNOSIS
-        move MOVE_SHADOW_BALL
-        move MOVE_MEAN_LOOK
-        move MOVE_SUCKER_PUNCH
+        level 14
+        pokemon SPECIES_MISDREAVUS
+        item ITEM_ORAN_BERRY
+        move MOVE_CONFUSION
+        move MOVE_HEX
+        move MOVE_WILL_O_WISP
+        move MOVE_DRAINING_KISS
         ballseal 0
 
         // mon 3
         ivs 100
         abilityslot 0
-        level 23
-        pokemon SPECIES_HAUNTER
+        level 12
+        pokemon SPECIES_GOLETT
         item ITEM_NONE
-        move MOVE_CURSE
-        move MOVE_MEAN_LOOK
-        move MOVE_SUCKER_PUNCH
+        move MOVE_MUD_SLAP
+        move MOVE_SHADOW_PUNCH
+        move MOVE_HEX
         move MOVE_NIGHT_SHADE
         ballseal 0
     endparty
@@ -1502,22 +1502,22 @@ trainerdata 46, "Martha"
         // mon 0
         ivs 10
         abilityslot 0
-        level 18
+        level 8
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 8
+        pokemon SPECIES_HONEDGE
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_GASTLY
+        level 10
+        monwithform SPECIES_PUMPKABOO, 1
         ballseal 0
     endparty
 
@@ -2767,15 +2767,15 @@ trainerdata 89, "Grace"
         // mon 0
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 10
+        pokemon SPECIES_SHUPPET
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 10
+        monwithform SPECIES_YAMASK, 1
         ballseal 0
     endparty
 
@@ -4097,14 +4097,14 @@ trainerdata 129, "Shane"
         // mon 0
         ivs 0
         abilityslot 0
-        level 4
+        level 2
         pokemon SPECIES_NIDORAN_F
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 4
+        level 3
         pokemon SPECIES_NIDORAN_M
         ballseal 0
     endparty
@@ -4223,14 +4223,14 @@ trainerdata 134, "Benjamin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 4
+        level 2
         pokemon SPECIES_DIGLETT
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 32
-        level 5
+        level 3
         pokemon SPECIES_GEODUDE
         ballseal 0
 
@@ -9481,8 +9481,8 @@ trainerdata 281, "Richard"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
-        pokemon SPECIES_CHARMELEON
+        level 8
+        pokemon SPECIES_CHARMANDER
         ballseal 0
     endparty
 
@@ -9502,21 +9502,21 @@ trainerdata 282, "Ned"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
+        level 3
         pokemon SPECIES_KOFFING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
+        level 4
         pokemon SPECIES_GROWLITHE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 16
+        level 4
         pokemon SPECIES_KOFFING
         ballseal 0
     endparty
@@ -16634,15 +16634,15 @@ trainerdata 493, "Edith"
         // mon 0
         ivs 10
         abilityslot 0
-        level 22
-        pokemon SPECIES_HAUNTER
+        level 12
+        pokemon SPECIES_DRIFLOON
         ballseal 0
     endparty
 
 trainerdata 494, "Georgina"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_MEDIUM
-    nummons 5
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16655,36 +16655,15 @@ trainerdata 494, "Georgina"
         // mon 0
         ivs 10
         abilityslot 0
-        level 16
+        level 10
         pokemon SPECIES_GASTLY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 2
-        ivs 10
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 3
-        ivs 10
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 4
-        ivs 10
-        abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 10
+        pokemon SPECIES_DUSKULL
         ballseal 0
     endparty
 
