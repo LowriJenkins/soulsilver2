@@ -4834,7 +4834,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HIGH_HORSEPOWER",
       "MOVE_HONE_CLAWS",
@@ -4907,7 +4906,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WATER_GUN",
       "MOVE_WATER_PULSE",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_TAKE_DOWN",
@@ -5397,7 +5397,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HIGH_HORSEPOWER",
       "MOVE_HONE_CLAWS",
@@ -5472,7 +5471,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WATER_GUN",
       "MOVE_WATER_PULSE",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HORN_DRILL",
@@ -6150,7 +6150,6 @@
       "MOVE_HEADBUTT",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INCINERATE",
@@ -6188,7 +6187,8 @@
       "MOVE_TOXIC",
       "MOVE_WEATHER_BALL",
       "MOVE_WILL_O_WISP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ROAR",
@@ -6274,7 +6274,6 @@
       "MOVE_HEADBUTT",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
@@ -6319,7 +6318,8 @@
       "MOVE_TOXIC",
       "MOVE_WEATHER_BALL",
       "MOVE_WILL_O_WISP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ROAR",
@@ -12415,7 +12415,6 @@
       "MOVE_HAIL",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_ICE_BEAM",
@@ -12462,7 +12461,8 @@
       "MOVE_WATERFALL",
       "MOVE_WATER_GUN",
       "MOVE_WATER_PULSE",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_AURORA_BEAM",
@@ -12586,7 +12586,6 @@
       "MOVE_HAIL",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
@@ -12638,7 +12637,8 @@
       "MOVE_WATER_GUN",
       "MOVE_WATER_PULSE",
       "MOVE_WEATHER_BALL",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_AURORA_BEAM",
@@ -15252,7 +15252,6 @@
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_PUNCH",
       "MOVE_IMPRISON",
@@ -15301,7 +15300,8 @@
       "MOVE_TOXIC",
       "MOVE_VENOSHOCK",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -15435,7 +15435,6 @@
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -15492,7 +15491,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOSHOCK",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -15941,7 +15941,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_PUNCH",
       "MOVE_ICY_WIND",
@@ -15996,7 +15995,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZAP_CANNON"
+      "MOVE_ZAP_CANNON",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -16136,7 +16136,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_PUNCH",
       "MOVE_ICY_WIND",
@@ -16195,7 +16194,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZAP_CANNON"
+      "MOVE_ZAP_CANNON",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -16351,7 +16351,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -16423,7 +16422,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZAP_CANNON"
+      "MOVE_ZAP_CANNON",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -16981,7 +16981,6 @@
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -17045,7 +17044,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_TRI_ATTACK",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_FIRE_PUNCH",
@@ -26646,7 +26646,6 @@
       "MOVE_HAIL",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -26743,7 +26742,8 @@
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -26988,7 +26988,6 @@
       "MOVE_HEAT_WAVE",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HIGH_HORSEPOWER",
       "MOVE_HONE_CLAWS",
@@ -27191,7 +27190,8 @@
       "MOVE_WORK_UP",
       "MOVE_X_SCISSOR",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -30023,7 +30023,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_INFESTATION",
@@ -30058,7 +30057,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_VENOSHOCK",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -30189,7 +30189,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -30228,7 +30227,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_VENOSHOCK",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -30357,7 +30357,6 @@
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -30393,7 +30392,8 @@
       "MOVE_VENOM_DRENCH",
       "MOVE_VENOSHOCK",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_GUST",
@@ -35451,7 +35451,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HAZE",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -35497,7 +35496,8 @@
       "MOVE_TORMENT",
       "MOVE_TOXIC",
       "MOVE_UPROAR",
-      "MOVE_U_TURN"
+      "MOVE_U_TURN",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_WHIRLWIND",
@@ -35874,7 +35874,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -35927,7 +35926,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_ZAP_CANNON"
+      "MOVE_ZAP_CANNON",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SCREECH",
@@ -36712,7 +36712,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -36773,7 +36772,8 @@
       "MOVE_WATER_PULSE",
       "MOVE_WILD_CHARGE",
       "MOVE_ZAP_CANNON",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HEADBUTT",
@@ -37759,7 +37759,6 @@
       "MOVE_HAIL",
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_ICE_BEAM",
@@ -37809,7 +37808,8 @@
       "MOVE_VENOSHOCK",
       "MOVE_WATERFALL",
       "MOVE_WATER_PULSE",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SUPERSONIC",
@@ -48456,7 +48456,6 @@
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -48523,7 +48522,8 @@
       "MOVE_VACUUM_WAVE",
       "MOVE_WEATHER_BALL",
       "MOVE_WILL_O_WISP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_WHIRLWIND",
@@ -51348,7 +51348,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -51375,7 +51374,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_WILL_O_WISP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_GUST",
@@ -53035,7 +53035,6 @@
       "MOVE_GRAVITY",
       "MOVE_GYRO_BALL",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -53106,7 +53105,8 @@
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_RECOVER",
@@ -60328,7 +60328,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_GUARD_SWAP",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_BEAM",
       "MOVE_IMPRISON",
@@ -60369,7 +60368,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -60514,7 +60514,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_GUARD_SWAP",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -60562,7 +60561,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -61874,7 +61874,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GUNK_SHOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICY_WIND",
       "MOVE_IMPRISON",
@@ -61919,7 +61918,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -62041,7 +62041,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GUNK_SHOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICY_WIND",
@@ -62093,7 +62092,8 @@
       "MOVE_TRAILBLAZE",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -62218,7 +62218,6 @@
       "MOVE_GRAVITY",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_BEAM",
       "MOVE_ICY_WIND",
@@ -62259,7 +62258,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -62405,7 +62405,6 @@
       "MOVE_GRAVITY",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -62457,7 +62456,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -62943,7 +62943,6 @@
       "MOVE_FUTURE_SIGHT",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAIL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -62994,13 +62993,14 @@
       "MOVE_WATER_PULSE",
       "MOVE_WILL_O_WISP",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
-      "MOVE_DOUBLE_EDGE",
       "MOVE_BITE",
       "MOVE_CURSE",
       "MOVE_PERISH_SONG",
+      "MOVE_DOUBLE_EDGE",
       "MOVE_MEAN_LOOK",
       "MOVE_MEGAHORN",
       "MOVE_BATON_PASS",
@@ -63176,7 +63176,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_HAIL",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_BEAM",
       "MOVE_ICE_FANG",
@@ -63205,7 +63204,8 @@
       "MOVE_TOXIC",
       "MOVE_TRAILBLAZE",
       "MOVE_WATER_PULSE",
-      "MOVE_WEATHER_BALL"
+      "MOVE_WEATHER_BALL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -63327,7 +63327,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HAIL",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -63363,7 +63362,8 @@
       "MOVE_TOXIC",
       "MOVE_TRAILBLAZE",
       "MOVE_WATER_PULSE",
-      "MOVE_WEATHER_BALL"
+      "MOVE_WEATHER_BALL",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -72050,7 +72050,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HURRICANE",
@@ -72096,7 +72095,8 @@
       "MOVE_UPROAR",
       "MOVE_U_TURN",
       "MOVE_VENOSHOCK",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -73402,7 +73402,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICY_WIND",
       "MOVE_IMPRISON",
@@ -73447,7 +73446,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WEATHER_BALL",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -73586,7 +73586,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICY_WIND",
@@ -73632,7 +73631,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WEATHER_BALL",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -74097,7 +74097,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -74148,7 +74147,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SCREECH",
@@ -74265,7 +74265,6 @@
       "MOVE_HAZE",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -74309,7 +74308,8 @@
       "MOVE_TORMENT",
       "MOVE_TOXIC",
       "MOVE_UPROAR",
-      "MOVE_U_TURN"
+      "MOVE_U_TURN",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_WHIRLWIND",
@@ -74864,7 +74864,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_INCINERATE",
@@ -74911,7 +74910,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_VENOM_DRENCH",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DOUBLE_EDGE",
@@ -75035,7 +75035,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -75085,7 +75084,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_VENOM_DRENCH",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DOUBLE_EDGE",
@@ -75193,7 +75193,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_SPINNER",
       "MOVE_IMPRISON",
@@ -75243,7 +75242,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_RECYCLE",
@@ -75368,7 +75368,6 @@
       "MOVE_HARD_PRESS",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_SPINNER",
@@ -75426,7 +75425,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WEATHER_BALL",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_RECYCLE",
@@ -76109,7 +76109,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICY_WIND",
@@ -76161,7 +76160,8 @@
       "MOVE_UPROAR",
       "MOVE_WATER_PULSE",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -81848,7 +81848,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -81927,7 +81926,8 @@
       "MOVE_WONDER_ROOM",
       "MOVE_WORK_UP",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -82277,7 +82277,6 @@
       "MOVE_HARD_PRESS",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -82330,7 +82329,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -82481,7 +82481,6 @@
       "MOVE_HAIL",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -82531,7 +82530,8 @@
       "MOVE_TRIPLE_AXEL",
       "MOVE_WATER_PULSE",
       "MOVE_WEATHER_BALL",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -82639,7 +82639,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -82677,7 +82676,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -83990,7 +83990,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_GRAVITY",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -84039,7 +84038,8 @@
       "MOVE_THUNDERBOLT",
       "MOVE_THUNDER_WAVE",
       "MOVE_TOXIC",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -84561,7 +84561,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAZE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -84615,7 +84614,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_WILL_O_WISP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -84875,7 +84875,6 @@
       "MOVE_HAIL",
       "MOVE_HEAT_WAVE",
       "MOVE_HEAVY_SLAM",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HURRICANE",
@@ -84964,7 +84963,8 @@
       "MOVE_WILL_O_WISP",
       "MOVE_WORK_UP",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -85524,7 +85524,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -85562,7 +85561,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -85663,7 +85663,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -85701,7 +85700,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -85802,7 +85802,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -85840,7 +85839,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -85941,7 +85941,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -85979,7 +85978,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -86080,7 +86080,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_FRUSTRATION",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -86118,7 +86117,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -92953,7 +92953,6 @@
       "MOVE_FACADE",
       "MOVE_FRUSTRATION",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_INFESTATION",
       "MOVE_IRON_DEFENSE",
@@ -92979,7 +92978,8 @@
       "MOVE_TOXIC",
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOM_DRENCH",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_BITE",
@@ -93068,7 +93068,6 @@
       "MOVE_FACADE",
       "MOVE_FRUSTRATION",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_INFESTATION",
       "MOVE_IRON_DEFENSE",
@@ -93094,7 +93093,8 @@
       "MOVE_TOXIC",
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOM_DRENCH",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_BITE",
@@ -93195,7 +93195,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_INFESTATION",
@@ -93233,7 +93232,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOM_DRENCH",
       "MOVE_VENOSHOCK",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_BITE",
@@ -95833,7 +95833,6 @@
       "MOVE_FAKE_TEARS",
       "MOVE_FLASH",
       "MOVE_FRUSTRATION",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INFESTATION",
@@ -95863,7 +95862,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_MEMENTO"
@@ -95989,7 +95989,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_GUARD_SWAP",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
@@ -96025,7 +96024,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_MEMENTO"
@@ -97060,7 +97060,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GRASS_KNOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_VOICE",
@@ -97104,7 +97103,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_UPROAR",
-      "MOVE_U_TURN"
+      "MOVE_U_TURN",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_COUNTER",
@@ -97225,7 +97225,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -97277,7 +97276,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_UPROAR",
-      "MOVE_U_TURN"
+      "MOVE_U_TURN",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_COUNTER",
@@ -100059,7 +100059,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_LEAF_STORM",
@@ -100085,7 +100084,8 @@
       "MOVE_SWAGGER",
       "MOVE_TERA_BLAST",
       "MOVE_TOXIC",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_POISON_POWDER",
@@ -100182,7 +100182,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_HAIL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_ICE_BEAM",
@@ -100319,7 +100318,6 @@
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAIL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
@@ -101649,7 +101647,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_HEAVY_SLAM",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -101691,7 +101688,8 @@
       "MOVE_U_TURN",
       "MOVE_VOLT_SWITCH",
       "MOVE_WILD_CHARGE",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -102103,7 +102101,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_HAZE",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INCINERATE",
@@ -102138,7 +102135,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -102253,7 +102251,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_HAZE",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INCINERATE",
@@ -102289,7 +102286,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -102405,7 +102403,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HAZE",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
@@ -102443,7 +102440,8 @@
       "MOVE_TRAILBLAZE",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -104441,7 +104439,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_BEAM",
       "MOVE_ICE_PUNCH",
@@ -104491,7 +104488,8 @@
       "MOVE_TERA_BLAST",
       "MOVE_THIEF",
       "MOVE_THUNDER_PUNCH",
-      "MOVE_TOXIC"
+      "MOVE_TOXIC",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -104622,7 +104620,6 @@
       "MOVE_HEAT_CRASH",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HIGH_HORSEPOWER",
       "MOVE_HYPER_BEAM",
@@ -104679,7 +104676,8 @@
       "MOVE_THUNDER_PUNCH",
       "MOVE_TOXIC",
       "MOVE_TRICK",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_MUD_SLAP",
@@ -110061,7 +110059,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -110109,7 +110106,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WORK_UP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HYPNOSIS",
@@ -117428,7 +117426,6 @@
       "MOVE_GRASSY_GLIDE",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_LASH_OUT",
@@ -117471,7 +117468,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_VENOM_DRENCH",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -117593,7 +117591,6 @@
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
       "MOVE_HAZE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HONE_CLAWS",
       "MOVE_HYPER_BEAM",
@@ -117645,7 +117642,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_VENOM_DRENCH",
       "MOVE_WILL_O_WISP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -117762,7 +117760,6 @@
       "MOVE_GIGA_DRAIN",
       "MOVE_GRASS_KNOT",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INCINERATE",
@@ -117793,7 +117790,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -117923,7 +117921,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_GYRO_BALL",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
@@ -117958,7 +117955,8 @@
       "MOVE_TOXIC",
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -120299,7 +120297,6 @@
       "MOVE_GRASS_PLEDGE",
       "MOVE_HAZE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
@@ -120351,7 +120348,8 @@
       "MOVE_TRAILBLAZE",
       "MOVE_UPPER_HAND",
       "MOVE_U_TURN",
-      "MOVE_WORK_UP"
+      "MOVE_WORK_UP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DOUBLE_TEAM",
@@ -123568,7 +123566,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HAIL",
       "MOVE_HAZE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
@@ -123608,7 +123605,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOM_DRENCH",
       "MOVE_VENOSHOCK",
-      "MOVE_WATER_PULSE"
+      "MOVE_WATER_PULSE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HAZE",
@@ -126390,7 +126388,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_GRAVITY",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IMPRISON",
       "MOVE_INFESTATION",
@@ -126426,7 +126423,8 @@
       "MOVE_SWAGGER",
       "MOVE_TERA_BLAST",
       "MOVE_TOXIC",
-      "MOVE_TRICK"
+      "MOVE_TRICK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_CURSE",
@@ -126537,7 +126535,6 @@
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
       "MOVE_GRAVITY",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
@@ -126575,7 +126572,8 @@
       "MOVE_SWAGGER",
       "MOVE_TERA_BLAST",
       "MOVE_TOXIC",
-      "MOVE_TRICK"
+      "MOVE_TRICK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_CURSE",
@@ -127634,7 +127632,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_INFESTATION",
@@ -127679,7 +127676,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WORK_UP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_CURSE",
@@ -128090,7 +128088,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
@@ -129504,7 +129501,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -129550,7 +129546,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_WORK_UP"
+      "MOVE_WORK_UP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -129661,7 +129658,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GRASS_KNOT",
       "MOVE_GUNK_SHOT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_IRON_HEAD",
       "MOVE_LIGHT_SCREEN",
@@ -130951,7 +130947,6 @@
       "MOVE_FRUSTRATION",
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -131834,7 +131829,6 @@
       "MOVE_HAIL",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_ICE_BEAM",
       "MOVE_ICICLE_SPEAR",
@@ -131869,7 +131863,8 @@
       "MOVE_TERA_BLAST",
       "MOVE_TOXIC",
       "MOVE_WEATHER_BALL",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ROAR",
@@ -131948,7 +131943,6 @@
       "MOVE_HAIL",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -131988,7 +131982,8 @@
       "MOVE_TRIPLE_AXEL",
       "MOVE_WEATHER_BALL",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ROAR",
@@ -133216,7 +133211,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -133263,7 +133257,8 @@
       "MOVE_TORMENT",
       "MOVE_TOXIC",
       "MOVE_VENOSHOCK",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ASSURANCE",
@@ -133389,7 +133384,6 @@
       "MOVE_HAZE",
       "MOVE_HEADBUTT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_PUNCH",
@@ -133437,7 +133431,8 @@
       "MOVE_TORMENT",
       "MOVE_TOXIC",
       "MOVE_VENOSHOCK",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -133758,7 +133753,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_HEADBUTT",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -133801,7 +133795,8 @@
       "MOVE_THUNDER_PUNCH",
       "MOVE_TOXIC",
       "MOVE_UPROAR",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -134701,7 +134696,6 @@
       "MOVE_GUNK_SHOT",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HIDDEN_POWER",
       "MOVE_HYPER_BEAM",
       "MOVE_IRON_TAIL",
@@ -139600,7 +139594,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GUNK_SHOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_MEGA_KICK",
@@ -139642,7 +139635,8 @@
       "MOVE_UPROAR",
       "MOVE_VENOSHOCK",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILD_CHARGE"
+      "MOVE_WILD_CHARGE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ENDEAVOR",
@@ -140109,7 +140103,6 @@
       "MOVE_FACADE",
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_DRAIN",
-      "MOVE_HEX",
       "MOVE_IMPRISON",
       "MOVE_MAGICAL_LEAF",
       "MOVE_METRONOME",
@@ -140135,7 +140128,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ALLY_SWITCH"
@@ -140219,7 +140213,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
       "MOVE_LIGHT_SCREEN",
@@ -140250,7 +140243,8 @@
       "MOVE_TRICK",
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
-      "MOVE_WONDER_ROOM"
+      "MOVE_WONDER_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ALLY_SWITCH"
@@ -141351,7 +141345,6 @@
       "MOVE_GIGA_DRAIN",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAIL",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -141834,7 +141827,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_GUARD_SWAP",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
       "MOVE_IRON_DEFENSE",
@@ -142253,7 +142245,6 @@
       "MOVE_ENDURE",
       "MOVE_FACADE",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
       "MOVE_LIQUIDATION",
@@ -142285,7 +142276,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOM_DRENCH",
       "MOVE_VENOSHOCK",
-      "MOVE_WILD_CHARGE"
+      "MOVE_WILD_CHARGE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_MEMENTO",
@@ -143859,7 +143851,6 @@
       "MOVE_FIRE_BLAST",
       "MOVE_FLAMETHROWER",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_LIGHT_SCREEN",
       "MOVE_NIGHT_SHADE",
@@ -143887,7 +143878,8 @@
       "MOVE_THUNDERBOLT",
       "MOVE_THUNDER_WAVE",
       "MOVE_U_TURN",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -144003,7 +143995,6 @@
       "MOVE_FLY",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
       "MOVE_LIGHT_SCREEN",
@@ -144034,7 +144025,8 @@
       "MOVE_THUNDER_WAVE",
       "MOVE_TRI_ATTACK",
       "MOVE_U_TURN",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -145212,7 +145204,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAZE",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_LASH_OUT",
       "MOVE_MUD_SHOT",
@@ -145239,7 +145230,8 @@
       "MOVE_TAUNT",
       "MOVE_TERA_BLAST",
       "MOVE_UPROAR",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -145374,7 +145366,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_TRI_ATTACK",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -146844,7 +146837,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -146874,7 +146866,8 @@
       "MOVE_TAUNT",
       "MOVE_TERA_BLAST",
       "MOVE_THIEF",
-      "MOVE_U_TURN"
+      "MOVE_U_TURN",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -147000,7 +146993,7 @@
       "MOVE_GRASS_KNOT",
       "MOVE_GUNK_SHOT",
       "MOVE_HAIL",
-      "MOVE_HEX",
+      "MOVE_HELPING_HAND",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -147065,7 +147058,8 @@
       "MOVE_WEATHER_BALL",
       "MOVE_WHIRLPOOL",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_TOXIC",
@@ -147146,7 +147140,6 @@
       "MOVE_FACADE",
       "MOVE_GIGA_DRAIN",
       "MOVE_HAIL",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_ICE_BEAM",
       "MOVE_ICICLE_SPEAR",
@@ -147180,7 +147173,8 @@
       "MOVE_SURF",
       "MOVE_THROAT_CHOP",
       "MOVE_WHIRLPOOL",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_CONFUSE_RAY",
@@ -147901,7 +147895,6 @@
       "MOVE_ENERGY_BALL",
       "MOVE_FACADE",
       "MOVE_FAKE_TEARS",
-      "MOVE_HEX",
       "MOVE_IMPRISON",
       "MOVE_IRON_DEFENSE",
       "MOVE_NASTY_PLOT",
@@ -147926,7 +147919,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_MEMENTO"
@@ -148169,7 +148163,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GUNK_SHOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_MEGA_KICK",
@@ -148212,7 +148205,8 @@
       "MOVE_VENOM_DRENCH",
       "MOVE_VENOSHOCK",
       "MOVE_VOLT_SWITCH",
-      "MOVE_WILD_CHARGE"
+      "MOVE_WILD_CHARGE",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -148572,7 +148566,8 @@
       "MOVE_TRI_ATTACK",
       "MOVE_UPROAR",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -148732,7 +148727,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_GUARD_SWAP",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
       "MOVE_LEAF_STORM",
@@ -148782,7 +148776,8 @@
       "MOVE_UPROAR",
       "MOVE_WILL_O_WISP",
       "MOVE_WONDER_ROOM",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": [
@@ -149394,7 +149389,6 @@
       "MOVE_FACADE",
       "MOVE_FLIP_TURN",
       "MOVE_GIGA_IMPACT",
-      "MOVE_HEX",
       "MOVE_HYDRO_PUMP",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_BEAM",
@@ -149424,7 +149418,9 @@
       "MOVE_UPROAR",
       "MOVE_WATERFALL",
       "MOVE_WATER_PULSE",
-      "MOVE_WHIRLPOOL"
+      "MOVE_WHIRLPOOL",
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ENDEAVOR",
@@ -149685,7 +149681,9 @@
       "MOVE_TOXIC",
       "MOVE_TOXIC_SPIKES",
       "MOVE_VENOSHOCK",
-      "MOVE_WATERFALL"
+      "MOVE_WATERFALL",
+      "MOVE_WATER_PULSE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SUPERSONIC",
@@ -150475,7 +150473,6 @@
       "MOVE_HEAT_CRASH",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_IMPRISON",
@@ -150503,7 +150500,8 @@
       "MOVE_TERA_BLAST",
       "MOVE_THUNDER_FANG",
       "MOVE_WILL_O_WISP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SING",
@@ -153345,7 +153343,6 @@
       "MOVE_FLING",
       "MOVE_HEAT_WAVE",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_IRON_DEFENSE",
       "MOVE_IRON_HEAD",
       "MOVE_LIGHT_SCREEN",
@@ -153373,7 +153370,8 @@
       "MOVE_THROAT_CHOP",
       "MOVE_VACUUM_WAVE",
       "MOVE_WILL_O_WISP",
-      "MOVE_X_SCISSOR"
+      "MOVE_X_SCISSOR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_NIGHT_SLASH",
@@ -154329,7 +154327,6 @@
       "MOVE_GRASSY_GLIDE",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_LEAF_STORM",
       "MOVE_NIGHT_SHADE",
       "MOVE_PAIN_SPLIT",
@@ -154348,7 +154345,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TERA_BLAST",
       "MOVE_THIEF",
-      "MOVE_TRAILBLAZE"
+      "MOVE_TRAILBLAZE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_LEECH_SEED",
@@ -154434,7 +154432,6 @@
       "MOVE_GRASSY_GLIDE",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_LEAF_STORM",
       "MOVE_NIGHT_SHADE",
@@ -154455,7 +154452,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TERA_BLAST",
       "MOVE_THIEF",
-      "MOVE_TRAILBLAZE"
+      "MOVE_TRAILBLAZE",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_LEECH_SEED",
@@ -154551,7 +154549,6 @@
       "MOVE_GRASSY_GLIDE",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_KNOCK_OFF",
       "MOVE_LEAF_STORM",
       "MOVE_LIGHT_SCREEN",
@@ -154578,7 +154575,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_TRICK_ROOM",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_LEECH_SEED",
@@ -154682,7 +154680,6 @@
       "MOVE_GRASSY_GLIDE",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_KNOCK_OFF",
       "MOVE_LEAF_STORM",
@@ -154711,7 +154708,8 @@
       "MOVE_TOXIC_SPIKES",
       "MOVE_TRAILBLAZE",
       "MOVE_TRICK_ROOM",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_LEECH_SEED",
@@ -155449,7 +155447,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_LIGHT_SCREEN",
@@ -155482,7 +155479,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_UPROAR",
       "MOVE_U_TURN",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HYPNOSIS",
@@ -157114,7 +157112,6 @@
       "MOVE_FACADE",
       "MOVE_FIRE_FANG",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_ICE_FANG",
       "MOVE_MUD_SHOT",
       "MOVE_MUD_SLAP",
@@ -157141,7 +157138,8 @@
       "MOVE_THIEF",
       "MOVE_THUNDER_FANG",
       "MOVE_TRICK",
-      "MOVE_UPROAR"
+      "MOVE_UPROAR",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -157235,7 +157233,6 @@
       "MOVE_FIRE_FANG",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_FANG",
       "MOVE_MUD_SHOT",
@@ -157264,7 +157261,8 @@
       "MOVE_THUNDER_FANG",
       "MOVE_TRICK",
       "MOVE_UPROAR",
-      "MOVE_WILL_O_WISP"
+      "MOVE_WILL_O_WISP",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DISABLE",
@@ -158435,7 +158433,6 @@
       "MOVE_GYRO_BALL",
       "MOVE_HEAVY_SLAM",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
@@ -158480,7 +158477,8 @@
       "MOVE_TOXIC",
       "MOVE_UPROAR",
       "MOVE_WILD_CHARGE",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_HEADBUTT",
@@ -158972,7 +158970,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_LASH_OUT",
       "MOVE_LEAF_STORM",
@@ -158993,7 +158990,8 @@
       "MOVE_THIEF",
       "MOVE_TRAILBLAZE",
       "MOVE_VENOSHOCK",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SUNNY_DAY"
@@ -159081,7 +159079,6 @@
       "MOVE_FAKE_TEARS",
       "MOVE_GIGA_IMPACT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_ICY_WIND",
@@ -159109,7 +159106,8 @@
       "MOVE_THUNDER",
       "MOVE_THUNDERBOLT",
       "MOVE_THUNDER_WAVE",
-      "MOVE_TRICK_ROOM"
+      "MOVE_TRICK_ROOM",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_SUNNY_DAY"
@@ -160427,7 +160425,6 @@
     "MachineMoves": [
       "MOVE_CONFUSE_RAY",
       "MOVE_ENDURE",
-      "MOVE_HEX",
       "MOVE_LIGHT_SCREEN",
       "MOVE_NASTY_PLOT",
       "MOVE_NIGHT_SHADE",
@@ -160440,7 +160437,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TAKE_DOWN",
       "MOVE_TERA_BLAST",
-      "MOVE_THIEF"
+      "MOVE_THIEF",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -160508,7 +160506,6 @@
       "MOVE_FOCUS_PUNCH",
       "MOVE_GIGA_IMPACT",
       "MOVE_HEAVY_SLAM",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IRON_HEAD",
       "MOVE_LIGHT_SCREEN",
@@ -160536,7 +160533,8 @@
       "MOVE_THUNDERBOLT",
       "MOVE_THUNDER_PUNCH",
       "MOVE_THUNDER_WAVE",
-      "MOVE_TRICK"
+      "MOVE_TRICK",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -160633,7 +160631,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASSY_TERRAIN",
       "MOVE_GRASS_KNOT",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_KNOCK_OFF",
       "MOVE_LASH_OUT",
@@ -160660,7 +160657,8 @@
       "MOVE_TAUNT",
       "MOVE_TERA_BLAST",
       "MOVE_TRAILBLAZE",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -160757,7 +160755,6 @@
       "MOVE_FALSE_SWIPE",
       "MOVE_GIGA_IMPACT",
       "MOVE_HAZE",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_ICE_FANG",
       "MOVE_ICE_SPINNER",
@@ -160777,7 +160774,8 @@
       "MOVE_TAKE_DOWN",
       "MOVE_TAUNT",
       "MOVE_TERA_BLAST",
-      "MOVE_THROAT_CHOP"
+      "MOVE_THROAT_CHOP",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -160870,7 +160868,6 @@
       "MOVE_FACADE",
       "MOVE_GIGA_IMPACT",
       "MOVE_HEAVY_SLAM",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_LASH_OUT",
       "MOVE_MUD_SHOT",
@@ -160895,7 +160892,8 @@
       "MOVE_TAUNT",
       "MOVE_TERA_BLAST",
       "MOVE_THROAT_CHOP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -160989,7 +160987,6 @@
       "MOVE_FLARE_BLITZ",
       "MOVE_GIGA_IMPACT",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_LASH_OUT",
       "MOVE_LIGHT_SCREEN",
@@ -161010,7 +161007,8 @@
       "MOVE_TEMPER_FLARE",
       "MOVE_TERA_BLAST",
       "MOVE_WILL_O_WISP",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -161254,7 +161252,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GRASS_KNOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_HYPER_VOICE",
       "MOVE_ICE_PUNCH",
@@ -161295,7 +161292,8 @@
       "MOVE_TRICK_ROOM",
       "MOVE_VACUUM_WAVE",
       "MOVE_X_SCISSOR",
-      "MOVE_ZEN_HEADBUTT"
+      "MOVE_ZEN_HEADBUTT",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_ELECTRIC_TERRAIN"
@@ -161968,7 +161966,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_DRAIN",
       "MOVE_GRASSY_TERRAIN",
-      "MOVE_HEX",
       "MOVE_IMPRISON",
       "MOVE_IRON_DEFENSE",
       "MOVE_LEAF_STORM",
@@ -161990,7 +161987,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TERA_BLAST",
       "MOVE_TRICK_ROOM",
-      "MOVE_UPROAR"
+      "MOVE_UPROAR",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -162062,7 +162060,6 @@
       "MOVE_FOUL_PLAY",
       "MOVE_GIGA_DRAIN",
       "MOVE_GRASSY_TERRAIN",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
       "MOVE_IRON_DEFENSE",
@@ -162085,7 +162082,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TERA_BLAST",
       "MOVE_TRICK_ROOM",
-      "MOVE_UPROAR"
+      "MOVE_UPROAR",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -162273,7 +162271,6 @@
       "MOVE_GRASS_KNOT",
       "MOVE_GUNK_SHOT",
       "MOVE_HELPING_HAND",
-      "MOVE_HEX",
       "MOVE_HYPER_BEAM",
       "MOVE_IMPRISON",
       "MOVE_LASH_OUT",
@@ -162309,7 +162306,8 @@
       "MOVE_TRICK",
       "MOVE_UPROAR",
       "MOVE_U_TURN",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -162394,7 +162392,6 @@
       "MOVE_GIGA_IMPACT",
       "MOVE_GUNK_SHOT",
       "MOVE_HEAT_WAVE",
-      "MOVE_HEX",
       "MOVE_HURRICANE",
       "MOVE_HYPER_BEAM",
       "MOVE_ICY_WIND",
@@ -162423,7 +162420,8 @@
       "MOVE_TOXIC",
       "MOVE_UPROAR",
       "MOVE_U_TURN",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [],
     "TutorMoves": []
@@ -163438,7 +163436,6 @@
       "MOVE_FAKE_TEARS",
       "MOVE_FOUL_PLAY",
       "MOVE_GUNK_SHOT",
-      "MOVE_HEX",
       "MOVE_IMPRISON",
       "MOVE_NASTY_PLOT",
       "MOVE_NIGHT_SHADE",
@@ -163454,7 +163451,8 @@
       "MOVE_SUBSTITUTE",
       "MOVE_TERA_BLAST",
       "MOVE_TOXIC",
-      "MOVE_VENOSHOCK"
+      "MOVE_VENOSHOCK",
+      "MOVE_HEX"
     ],
     "EggMoves": [
       "MOVE_DEFENSE_CURL",
