@@ -7192,8 +7192,8 @@ evodata SPECIES_WHIMSICOTT
     terminateevodata
 
 evodata SPECIES_PETILIL
-    evolution EVO_STONE, ITEM_SUN_STONE, SPECIES_LILLIGANT
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_ITEM_HISUIAN, ITEM_SUN_STONE, SPECIES_LILLIGANT, 1
+    evolutionwithform EVO_STONE, ITEM_SUN_STONE, SPECIES_LILLIGANT, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
