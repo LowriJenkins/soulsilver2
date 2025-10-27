@@ -120,6 +120,7 @@
 .equ EVO_FORM_ARGUMENT, 47 // Yamask, Stantler, Basculin, Primeape, Bisharp, Gimmighoul
 .equ EVO_LETS_GO, 48 // Pawmo, Bramblin, Rellor https://xcancel.com/Sibuna_Switch/status/1678027317891694593
 .equ EVO_DUMMY, 49 // Inaccessible evolution methods
+.equ EVO_LEVEL_HISUIAN, 50
 
 // shadow size constants
 

@@ -231,6 +231,18 @@ u16 GetMonEvolutionInternal(struct Party *party, struct PartyPokemon *pokemon, u
                 }
                 break;
 
+            case EVO_HISUIAN: // Hisuian Evolutions (Celebi locations + Level)
+                {
+                    u32 location = gFieldSysPtr->location->mapId;
+
+                    if ((location == 45 || location == 42) && evoTable[i].param <= level)
+                    {
+                        target = evoTable[i].target & 0x7FF;
+                        *method_ret = EVO_HISUIAN;
+                    }
+                }
+                break;
+
             case EVO_LEVEL_DAY:
                 if (IsNighttime() == 0 && evoTable[i].param <= level) {
                     target = evoTable[i].target & 0x7FF;
