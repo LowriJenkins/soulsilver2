@@ -684,6 +684,7 @@ typedef enum EvoMethod
     EVO_FORM_ARGUMENT,  // Yamask, Stantler, Basculin, Primeape, Bisharp, Gimmighoul
     EVO_LETS_GO, // Pawmo, Bramblin, Rellor https://xcancel.com/Sibuna_Switch/status/1678027317891694593
     EVO_DUMMY, // Inaccessible evolution methods
+    EVO_HISUIAN,
 } EvoMethod;
 
 typedef enum {
