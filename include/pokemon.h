@@ -685,6 +685,7 @@ typedef enum EvoMethod
     EVO_LETS_GO, // Pawmo, Bramblin, Rellor https://xcancel.com/Sibuna_Switch/status/1678027317891694593
     EVO_DUMMY, // Inaccessible evolution methods
     EVO_HISUIAN,
+    EVO_HISUIAN_ITEM,
 } EvoMethod;
 
 typedef enum {
