@@ -121,6 +121,7 @@
 .equ EVO_LETS_GO, 48 // Pawmo, Bramblin, Rellor https://xcancel.com/Sibuna_Switch/status/1678027317891694593
 .equ EVO_DUMMY, 49 // Inaccessible evolution methods
 .equ EVO_LEVEL_HISUIAN, 50
+.equ EVO_ITEM_HISUIAN, 51
 
 // shadow size constants
 

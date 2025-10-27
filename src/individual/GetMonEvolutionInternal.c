@@ -422,6 +422,17 @@ u16 GetMonEvolutionInternal(struct Party *party, struct PartyPokemon *pokemon, u
                 *method_ret = 0;
                 break;
             }
+            if (evoTable[i].method == EVO_HISUIAN_ITEM) // Hisuian Evolutions (Celebi locations + Stone)
+                {
+                    u32 location = gFieldSysPtr->location->mapId;
+
+                    if ((location == 45 || location == 42) && evoTable[i].param == usedItem)
+                    {
+                        target = evoTable[i].target & 0x7FF;
+                        *method_ret = 0;
+                        break;
+                    }
+                }
         }
         #if defined(IMPLEMENT_LEVEL_CAP) && defined(ALLOW_LEVEL_CAP_EVOLVE)
         if ((level == 100 || level == GetLevelCap()) && usedItem == ITEM_RARE_CANDY)
