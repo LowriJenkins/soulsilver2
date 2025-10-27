@@ -1884,8 +1884,8 @@ evodata SPECIES_CYNDAQUIL
     terminateevodata
 
 evodata SPECIES_QUILAVA
-    evolution EVO_LEVEL, 36, SPECIES_TYPHLOSION
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_LEVEL_HISUIAN, 36, SPECIES_TYPHLOSION, 1
+    evolutionwithform EVO_LEVEL, 36, SPECIES_TYPHLOSION, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6640,8 +6640,8 @@ evodata SPECIES_OSHAWOTT
     terminateevodata
 
 evodata SPECIES_DEWOTT
-    evolution EVO_LEVEL, 36, SPECIES_SAMUROTT
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_LEVEL_HISUIAN, 36, SPECIES_SAMUROTT, 1
+    evolutionwithform EVO_LEVEL, 36, SPECIES_SAMUROTT, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -8140,8 +8140,8 @@ evodata SPECIES_BOUFFALANT
     terminateevodata
 
 evodata SPECIES_RUFFLET
-    evolution EVO_LEVEL, 54, SPECIES_BRAVIARY
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_LEVEL_HISUIAN, 54, SPECIES_BRAVIARY, 1
+    evolutionwithform EVO_LEVEL, 54, SPECIES_BRAVIARY, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -9064,8 +9064,8 @@ evodata SPECIES_CARBINK
 terminateevodata
 
 evodata SPECIES_GOOMY
-    evolution EVO_LEVEL, 40, SPECIES_SLIGGOO
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_LEVEL_HISUIAN, 40, SPECIES_SLIGGOO, 1
+    evolutionwithform EVO_LEVEL, 40, SPECIES_SLIGGOO, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -9160,8 +9160,8 @@ evodata SPECIES_GOURGEIST
 terminateevodata
 
 evodata SPECIES_BERGMITE
-    evolution EVO_LEVEL, 37, SPECIES_AVALUGG
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_LEVEL_HISUIAN, 37, SPECIES_AVALUGG, 1
+    evolutionwithform EVO_LEVEL, 37, SPECIES_AVALUGG, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -9292,7 +9292,8 @@ evodata SPECIES_ROWLET
 terminateevodata
 
 evodata SPECIES_DARTRIX
-    evolution EVO_LEVEL, 34, SPECIES_DECIDUEYE
+    evolutionwithform EVO_LEVEL_HISUIAN, 36, SPECIES_DECIDUEYE, 1
+    evolutionwithform EVO_LEVEL, 34, SPECIES_DECIDUEYE, 0
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
