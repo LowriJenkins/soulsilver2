@@ -2720,49 +2720,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 15, 13, 15, 15, 15, 14, 14, 15, 15, 15, 15
+walklevels 10, 12, 10, 12, 12, 12, 11, 11, 12, 12, 13, 13
 
 // morning encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_STANTLER
+pokemon SPECIES_VULPIX
 pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_LEDYBA
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
+pokemon SPECIES_LEDYBA
 
 // day encounter slots
 pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
 pokemon SPECIES_PIDGEY
+pokemon SPECIES_GROWLITHE
+pokemon SPECIES_PIDGEY
 pokemon SPECIES_STANTLER
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_PIDGEY
-pokemon SPECIES_GROWLITHE
 pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_GROWLITHE
 pokemon SPECIES_PIDGEOTTO
-pokemon SPECIES_GROWLITHE
+pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_PIDGEOTTO
+pokemon SPECIES_VULPIX
 
 // night encounter slots
-pokemon SPECIES_SPINARAK
-pokemon SPECIES_STANTLER
-pokemon SPECIES_SPINARAK
+pokemon SPECIES_HOOTHOOT
 pokemon SPECIES_STANTLER
 pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_VULPIX
 pokemon SPECIES_HOOTHOOT
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_VULPIX
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
+pokemon SPECIES_SPINARAK
 pokemon SPECIES_GROWLITHE
-pokemon SPECIES_GROWLITHE
-pokemon SPECIES_SPINARAK
-pokemon SPECIES_SPINARAK
-pokemon SPECIES_SPINARAK
-pokemon SPECIES_SPINARAK
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -3032,7 +3032,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 5, 6, 6, 5, 6, 6, 6, 7, 6, 6, 6, 5
+walklevels 5, 6, 6, 5, 6, 6, 6, 6, 6, 6, 7, 7
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
@@ -3044,9 +3044,9 @@ pokemon SPECIES_KOFFING
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
+pokemon SPECIES_EEVEE
+pokemon SPECIES_MAGBY
 
 // day encounter slots
 pokemon SPECIES_RATTATA
@@ -3055,12 +3055,12 @@ pokemon SPECIES_RATTATA
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING
 pokemon SPECIES_KOFFING
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
+pokemon SPECIES_MAGBY
 pokemon SPECIES_ZUBAT
 pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_EEVEE
+pokemon SPECIES_MAGBY
 
 // night encounter slots
 pokemon SPECIES_RATTATA
@@ -3072,9 +3072,9 @@ pokemon SPECIES_KOFFING
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_MAGBY
+monwithform SPECIES_POLTCHAGEIST, 1
+pokemon SPECIES_MAGBY
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
@@ -3972,11 +3972,11 @@ walklevels 7, 7, 7, 8, 9, 7, 9, 8, 8, 9, 7, 7
 
 // morning encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_PURRLOIN
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_PURRLOIN
+pokemon SPECIES_PIKACHU
+pokemon SPECIES_PIKACHU
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_MILTANK
@@ -3986,11 +3986,11 @@ pokemon SPECIES_SNUBBULL
 
 // day encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_PURRLOIN
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_PURRLOIN
+pokemon SPECIES_PIKACHU
+pokemon SPECIES_PIKACHU
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_FARFETCHD
 pokemon SPECIES_MILTANK
@@ -4000,11 +4000,11 @@ pokemon SPECIES_SNUBBULL
 
 // night encounter slots
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
+pokemon SPECIES_PURRLOIN
 pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
+pokemon SPECIES_PURRLOIN
+pokemon SPECIES_PIKACHU
+pokemon SPECIES_PIKACHU
 pokemon SPECIES_RATTATA
 pokemon SPECIES_RATTATA
 pokemon SPECIES_MILTANK
