@@ -985,7 +985,7 @@ trainerdata 31, "Morty"
         ivs 100
         abilityslot 0
         level 12
-        monwithform SPECIES_SINISTCHA, 1
+        monwithform SPECIES_POLTCHAGEIST, 1
         item ITEM_NONE
         move MOVE_STUN_SPORE
         move MOVE_HEX
